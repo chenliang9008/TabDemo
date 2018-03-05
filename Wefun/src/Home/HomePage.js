@@ -22,7 +22,7 @@ class HomePage extends Component {
         return (
             <View style={styles.container}>
 
-                <NavigationHeaderView middleTitle={'Wecash'}/>
+                <NavigationHeaderView middleTitle={'Home Page'}/>
 
                 {setStatusBar()}
 
